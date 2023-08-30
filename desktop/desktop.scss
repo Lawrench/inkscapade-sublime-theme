@@ -181,3 +181,8 @@ body #main-outlet {
 .navigation-container {
   display: none;
 }
+
+
+.topic-list .posts, .topic-list .views, .topic-list .activity {
+    display:none;
+}
